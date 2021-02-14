@@ -6,11 +6,11 @@
     <description>Recent content in Pages on 정지용 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stopdragon.page/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2000 00:00:00 +0000</lastBuildDate><atom:link href="https://stopdragon.page/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://stopdragon.page/about/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Feb 2000 00:00:00 +0000</pubDate>
       
       <guid>https://stopdragon.page/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
@@ -21,7 +21,7 @@ Hugo makes use of a variety of open source projects including:
     <item>
       <title>Archives</title>
       <link>https://stopdragon.page/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stopdragon.page/archives/</guid>
       <description></description>
