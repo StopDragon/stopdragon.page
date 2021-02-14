@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://stopdragon.page/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stopdragon.page/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
@@ -98,17 +103,17 @@
   </url>
   
   <url>
+    <loc>https://stopdragon.page/categories/test/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stopdragon.page/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://stopdragon.page/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stopdragon.page/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,6 +134,10 @@
   
   <url>
     <loc>https://stopdragon.page/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://stopdragon.page/categories/test/test/</loc>
   </url>
   
 </urlset>
